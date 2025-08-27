@@ -1,0 +1,2 @@
+# ForexBotAnalyzer
+ForexAnalyzer
